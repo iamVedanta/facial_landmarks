@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "face_landmark",
+			"path": ".."
+		},
+		{
+			"name": "iCOPEvid",
+			"path": "../../../../Downloads/iCOPEvid/iCOPEvid"
+		}
+	],
+	"settings": {}
+}
